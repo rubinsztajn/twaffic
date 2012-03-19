@@ -1,0 +1,10 @@
+# Twitter OAuth details
+tw_consumer_key = '<twitter_consumer_key>'
+tw_consumer_secret = '<twitter_consumer_secret>'
+tw_token = '<twitter_token>'
+tw_token_secret = '<twitter_token_secret>'
+
+# GVoice details
+gvoice_email = '<google_voice_email>'
+gvoice_pass = '<google_voice_password>'
+sms_phone_number = '<number_to_recieve_texts>'
